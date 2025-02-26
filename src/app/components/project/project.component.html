@@ -1,0 +1,44 @@
+<div>
+    <mat-toolbar>
+        <span>
+            <a routerLink="/" style="text-decoration: none; color: inherit;">Viswa Venkatesan</a>
+        </span>
+        </mat-toolbar>
+</div>
+
+<br>
+
+<div class="example-action-buttons">
+    <button mat-button (click)="accordion().openAll()">Expand All</button>
+    <button mat-button (click)="accordion().closeAll()">Collapse All</button>
+  </div>
+  <br>
+<div>
+    
+    <mat-accordion class="example-headers-align" multi>
+        <mat-expansion-panel>
+            <mat-expansion-panel-header>
+                <mat-panel-title> Seminal</mat-panel-title>
+            </mat-expansion-panel-header>
+            
+            gdsdbj
+        </mat-expansion-panel>
+
+        <mat-expansion-panel>
+            <mat-expansion-panel-header>
+                <mat-panel-title> Project 2</mat-panel-title>
+            </mat-expansion-panel-header>
+            
+            gdsdbj
+        </mat-expansion-panel>
+
+        <mat-expansion-panel>
+            <mat-expansion-panel-header>
+                <mat-panel-title> Project 3</mat-panel-title>
+            </mat-expansion-panel-header>
+            
+            gdsdbj
+        </mat-expansion-panel>
+    </mat-accordion>
+
+</div>
