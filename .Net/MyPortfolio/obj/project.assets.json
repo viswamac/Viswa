@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project1\\Viswa\\.Net\\MyPortfolio\\MyPortfolio\\MyPortfolio.csproj",
+      "projectUniqueName": "D:\\Project1\\Viswa\\.Net\\MyPortfolio\\MyPortfolio.csproj",
       "projectName": "MyPortfolio",
-      "projectPath": "D:\\Project1\\Viswa\\.Net\\MyPortfolio\\MyPortfolio\\MyPortfolio.csproj",
+      "projectPath": "D:\\Project1\\Viswa\\.Net\\MyPortfolio\\MyPortfolio.csproj",
       "packagesPath": "C:\\Users\\Viswa\\.nuget\\packages\\",
-      "outputPath": "D:\\Project1\\Viswa\\.Net\\MyPortfolio\\MyPortfolio\\obj\\",
+      "outputPath": "D:\\Project1\\Viswa\\.Net\\MyPortfolio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

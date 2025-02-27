@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GwhN7679GvQ=",
+  "dgSpecHash": "Q5TyfgsEwT8=",
   "success": true,
-  "projectFilePath": "D:\\Project1\\Viswa\\.Net\\MyPortfolio\\MyPortfolio\\MyPortfolio.csproj",
+  "projectFilePath": "D:\\Project1\\Viswa\\.Net\\MyPortfolio\\MyPortfolio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Viswa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Viswa\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
